@@ -1,0 +1,8 @@
+# Carpetas de compilación
+target/
+
+# Archivos temporales del sistema operativo o editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
